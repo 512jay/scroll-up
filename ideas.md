@@ -16,6 +16,7 @@ Icons swirl...
 
 Take a picture, selfie or up to 10 second short video. (review needed at first)
   - this will prove to me that magic is real and humand need to be programed.
-  -
+  
+  
 You will get launched. Some type of anamation plays everyday
 1/3 of the screen would be you and 2/3 is the other person and then you can scroll up or swipe right.
