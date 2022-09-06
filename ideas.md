@@ -6,14 +6,16 @@ It will ask who do you act like? 30 adjectives.
 
 2. * What do you feel like, it changes day to day.
 
-3. How do you think.
+3. How do you think?
 
-4. Other parameters
+4. Other parameters?
 
 5. ...
 
 Icons swirl...
 
-Take a picture, selfie or up to 10 second short video. (review needed)
+Take a picture, selfie or up to 10 second short video. (review needed at first)
+  - this will prove to me that magic is real and humand need to be programed.
+  -
 You will get launched. Some type of anamation plays everyday
-1/3 of the screen would be you and 2/3 is the person and then you can scroll up or swipe right.
+1/3 of the screen would be you and 2/3 is the other person and then you can scroll up or swipe right.
