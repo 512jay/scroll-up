@@ -2,7 +2,7 @@
 
 Modern dating apps fail to match people on a spiritual level conversely matching people on a physical level.
 
-1. Scroll up instead of down, scrolling down leads is infinate regression and procrastination.
+1. Scroll up instead of down, scrolling down leads to regression and procrastination.
 
 2. Open source so we have the best people working on it.
 
